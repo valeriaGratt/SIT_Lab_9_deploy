@@ -1,0 +1,15 @@
+li {
+  display: inline-block;
+  margin-left: 15px;
+}
+a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  width: 100px;
+  text-align: center;
+}
+ul {
+  text-align: center;
+}
